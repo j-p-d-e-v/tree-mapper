@@ -7,24 +7,9 @@ This utility generates a hierarchical mapping of files and directories, represen
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone j-p-d-e-v/tree-mapper
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd file-tree-mapping-generator
-   ```
-
-3. Build and run the application:
-
-   ```bash
-   cargo build
-   cargo run
-   ```
+```sh
+cargo add tree-mapper
+```
 
 ## Usage
 
