@@ -1,0 +1,254 @@
+{
+  "test-data": [
+    {
+      "Dir": {
+        "A": [
+          {
+            "File": {
+              "path": "file_level_1.txt",
+              "extension": "txt",
+              "file_size_raw": 16,
+              "file_size_label": "16b"
+            }
+          },
+          {
+            "File": {
+              "path": "file_level_2.txt",
+              "extension": "txt",
+              "file_size_raw": 16,
+              "file_size_label": "16b"
+            }
+          },
+          {
+            "Dir": {
+              "level_aa": [
+                {
+                  "File": {
+                    "path": "file_level_3.txt",
+                    "extension": "txt",
+                    "file_size_raw": 16,
+                    "file_size_label": "16b"
+                  }
+                },
+                {
+                  "Dir": {
+                    "level_4": [
+                      {
+                        "File": {
+                          "path": "file_level_4.txt",
+                          "extension": "txt",
+                          "file_size_raw": 16,
+                          "file_size_label": "16b"
+                        }
+                      },
+                      {
+                        "Dir": {
+                          "level_5": [
+                            {
+                              "File": {
+                                "path": "file_level_5.txt",
+                                "extension": "txt",
+                                "file_size_raw": 16,
+                                "file_size_label": "16b"
+                              }
+                            },
+                            {
+                              "Dir": {
+                                "level_6": [
+                                  {
+                                    "File": {
+                                      "path": "file_level_6.txt",
+                                      "extension": "txt",
+                                      "file_size_raw": 16,
+                                      "file_size_label": "16b"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Dir": {
+              "level_ab": [
+                {
+                  "File": {
+                    "path": "file_level_3.txt",
+                    "extension": "txt",
+                    "file_size_raw": 16,
+                    "file_size_label": "16b"
+                  }
+                },
+                {
+                  "Dir": {
+                    "level_4": [
+                      {
+                        "File": {
+                          "path": "file_level_4.txt",
+                          "extension": "txt",
+                          "file_size_raw": 16,
+                          "file_size_label": "16b"
+                        }
+                      },
+                      {
+                        "Dir": {
+                          "level_5": [
+                            {
+                              "File": {
+                                "path": "file_level_5.txt",
+                                "extension": "txt",
+                                "file_size_raw": 16,
+                                "file_size_label": "16b"
+                              }
+                            },
+                            {
+                              "Dir": {
+                                "level_6": [
+                                  {
+                                    "File": {
+                                      "path": "file_level_6.txt",
+                                      "extension": "txt",
+                                      "file_size_raw": 16,
+                                      "file_size_label": "16b"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Dir": {
+        "B": [
+          {
+            "File": {
+              "path": "file_level_2.txt",
+              "extension": "txt",
+              "file_size_raw": 16,
+              "file_size_label": "16b"
+            }
+          },
+          {
+            "Dir": {
+              "level_3": [
+                {
+                  "File": {
+                    "path": "file_level_3.txt",
+                    "extension": "txt",
+                    "file_size_raw": 16,
+                    "file_size_label": "16b"
+                  }
+                },
+                {
+                  "Dir": {
+                    "level_4": [
+                      {
+                        "File": {
+                          "path": "file_level_4.txt",
+                          "extension": "txt",
+                          "file_size_raw": 16,
+                          "file_size_label": "16b"
+                        }
+                      },
+                      {
+                        "Dir": {
+                          "level_5": [
+                            {
+                              "File": {
+                                "path": "file_level_5.txt",
+                                "extension": "txt",
+                                "file_size_raw": 16,
+                                "file_size_label": "16b"
+                              }
+                            },
+                            {
+                              "Dir": {
+                                "level_6": [
+                                  {
+                                    "File": {
+                                      "path": "file_level_6.txt",
+                                      "extension": "txt",
+                                      "file_size_raw": 16,
+                                      "file_size_label": "16b"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Dir": {
+        "C": [
+          {
+            "File": {
+              "path": "file_level_1.txt",
+              "extension": "txt",
+              "file_size_raw": 16,
+              "file_size_label": "16b"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "File": {
+        "path": "file_level_1.txt",
+        "extension": "txt",
+        "file_size_raw": 16,
+        "file_size_label": "16b"
+      }
+    },
+    {
+      "File": {
+        "path": "file_level_2.txt",
+        "extension": "txt",
+        "file_size_raw": 16,
+        "file_size_label": "16b"
+      }
+    },
+    {
+      "File": {
+        "path": "Recording 2024-08-22 033639.mp4",
+        "extension": "mp4",
+        "file_size_raw": 498431,
+        "file_size_label": "486.7kb"
+      }
+    },
+    {
+      "File": {
+        "path": "Screen Recording 2024-08-22 033625.mp4",
+        "extension": "mp4",
+        "file_size_raw": 498431,
+        "file_size_label": "486.7kb"
+      }
+    }
+  ]
+}

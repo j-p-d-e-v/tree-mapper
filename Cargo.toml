@@ -1,0 +1,10 @@
+[package]
+name = "tree-mapper"
+description = "A utility for generating a hierarchical mapping of files and directories represented as a HashMap. The mapping reflects the directory structure and file levels, allowing for efficient retrieval and analysis of file system organization."
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+round = "0.1.2"
+serde = { version="1.0.209", features = ["derive"] }
+serde_json = "1.0.127"
