@@ -3,6 +3,11 @@ name = "tree-mapper"
 description = "A utility for generating a hierarchical mapping of files and directories represented as a HashMap. The mapping reflects the directory structure and file levels, allowing for efficient retrieval and analysis of file system organization."
 version = "0.1.0"
 edition = "2021"
+license = "MIT License"
+authors = ["JP Mateo <jpmateo022@gmail.com>"]
+categories = ["algorithms","data-structures"]
+keywords = ["file-directory", "tree-mapper"]
+repository = "https://github.com/j-p-d-e-v/tree-mapper.git"
 
 [dependencies]
 round = "0.1.2"
